@@ -33,6 +33,11 @@ The final Power BI report identifies market leaders, top-performing products, re
 7. Market share increased 1% (2019→2020) and 1.45% (2020→2021). 
 8. Key Influencers highlight that product “Sintec UC-19” increases revenue by +290.5, signalling a high-priority product.
 
+![Image Alt](https://github.com/mohmadahmedabdelwahed/Competitors-Sales-Analysis/blob/d6739370ebcf241c216f9be325a74ec80d00b48c/1.%20Competitors%20Sales%20analysis.png)
+
+![Image Alt](https://github.com/mohmadahmedabdelwahed/Competitors-Sales-Analysis/blob/d6739370ebcf241c216f9be325a74ec80d00b48c/2.Advanced%20Insights.png)
+
+
 ## Business Recommendations:
 
 1. Invest more in Japan and other non-USA markets where Sintec’s share is significantly lower 
@@ -43,6 +48,9 @@ The final Power BI report identifies market leaders, top-performing products, re
 6. Maintain momentum as Sintec’s market share shows steady YoY increase 
 
 ## The entire dataset is organized in a snowflake schema with one fact table and multiple dimensions. 
+
+![Image Alt](https://github.com/mohmadahmedabdelwahed/Competitors-Sales-Analysis/blob/d6739370ebcf241c216f9be325a74ec80d00b48c/3.data%20model.png)
+
 
 ## Methodology 
 
