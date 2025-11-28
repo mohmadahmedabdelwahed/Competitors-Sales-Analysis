@@ -31,10 +31,18 @@ The final Power BI report identifies market leaders, top-performing products, re
 5. Youth segment shows the highest 3-year growth at 64.5%, for all companies and 86.81% for sintec. 
 6. intec’s global market share is 19.7% over the three years. 
 7. Market share increased 1% (2019→2020) and 1.45% (2020→2021). 
-8. Key Influencers highlight that product “Sintec UC-19” increases revenue by +290.5, signalling a high-priority product. 
+8. Key Influencers highlight that product “Sintec UC-19” increases revenue by +290.5, signalling a high-priority product.
+
+## Business Recommendations:
+
+1. Invest more in Japan and other non-USA markets where Sintec’s share is significantly lower 
+2. Focus on high-impact products such as Sintec UC-19 
+3. Increase production and marketing in the Urban category, the largest revenue driver 
+4. Allocate strategic resources to capitalize on Youth segment growth 
+5. Benchmark heavily against Artisans, the dominant global competitor 
+6. Maintain momentum as Sintec’s market share shows steady YoY increase 
 
 ## The entire dataset is organized in a snowflake schema with one fact table and multiple dimensions. 
-
 
 ## Methodology 
 
@@ -51,11 +59,4 @@ Stacked column charts, Line charts, Decomposition tree, Key influencers, Cluster
 Power Query transformations, Data modelling (Snowflake schema), DAX calculations for YoY analysis, Complex relationships creation (concatenated geographic keys), Advanced visualizations (Key Influencers, Decomposition Tree), Market share analysis, Data storytelling, Business insight generation
 
 
-## Business Recommendations:
 
-1. Invest more in Japan and other non-USA markets where Sintec’s share is significantly lower 
-2. Focus on high-impact products such as Sintec UC-19 
-3. Increase production and marketing in the Urban category, the largest revenue driver 
-4. Allocate strategic resources to capitalize on Youth segment growth 
-5. Benchmark heavily against Artisans, the dominant global competitor 
-6. Maintain momentum as Sintec’s market share shows steady YoY increase 
